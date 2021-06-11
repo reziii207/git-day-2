@@ -10,3 +10,7 @@ html
   <h1>Hello World!</h1>
 </body>
 </html>>
+css
+h1 {
+	background: red
+}
